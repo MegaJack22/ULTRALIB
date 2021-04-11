@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "zhelonin\\": "zhelonin"
+            "Zhelonin\\": "Zhelonin"
         }
     }
 }
